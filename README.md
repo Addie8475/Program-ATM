@@ -1,5 +1,18 @@
 # Program ATM
 
+**Kode Python**
+
+![Screenshot_106](https://github.com/user-attachments/assets/a521bb3b-f6e1-466d-9653-53486bf1b04b)
+![Screenshot_107](https://github.com/user-attachments/assets/7e8ff9d0-b41e-49f5-8b4f-dc3f09b89142)
+![Screenshot_108](https://github.com/user-attachments/assets/de7b880d-1617-4874-a7f9-20d1cba7bec3)
+![Screenshot_109](https://github.com/user-attachments/assets/f58892a9-b995-40ae-b611-d4a147010568)
+![Screenshot_110](https://github.com/user-attachments/assets/d36a77ea-59ab-4efb-8dd3-90f5c74acf4f)
+
+**Input dan Output**
+
+![Screenshot_111](https://github.com/user-attachments/assets/98b04ec6-c5d0-4a1e-8dff-b092cb7bace0)
+![Screenshot_112](https://github.com/user-attachments/assets/fd418946-b2ad-4d6b-a926-a8d27e21e0b6)
+
  # 1. Struktur Program
 
 Program dibagi menjadi beberapa modul (folder dan file) untuk menjaga keteraturan, memudahkan pengelolaan, dan memungkinkan pengembangan lebih lanjut.
